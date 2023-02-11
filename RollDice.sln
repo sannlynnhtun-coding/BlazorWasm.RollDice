@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDice", "RollDice\RollDice.csproj", "{C551FEAE-4FEB-4678-8937-6EFA2D68AB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C551FEAE-4FEB-4678-8937-6EFA2D68AB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C551FEAE-4FEB-4678-8937-6EFA2D68AB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C551FEAE-4FEB-4678-8937-6EFA2D68AB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C551FEAE-4FEB-4678-8937-6EFA2D68AB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907D4F37-A7AD-495D-8540-E0D84CE5590E}
+	EndGlobalSection
+EndGlobal
